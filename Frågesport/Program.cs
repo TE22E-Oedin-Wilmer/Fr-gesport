@@ -24,18 +24,22 @@ choice = choice.ToLower();
 
 if (choice == "a")
 {
-Console.WriteLine("Intressant val du. Jaha då. Här kommer fråga 2:");
+Console.WriteLine("Intressant val du. Kriget varade bara en månad.");
+Console.WriteLine("Jaha då. Här kommer fråga 2:");
 Console.WriteLine("");
 Console.WriteLine("");
 }
 
-if (choice == "b")
+else if (choice == "b")
 {
+Console.WriteLine("Mhmm, okej. Kriget var ett riktigt kort ett.")
+Console.WriteLine("Jaja, här kommer fråga 2:");
 
-    
+
+
 }
 
-if (choice == "c")
+else if (choice == "c")
 {
 
     
