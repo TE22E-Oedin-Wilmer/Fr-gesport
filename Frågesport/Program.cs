@@ -41,8 +41,8 @@ Console.WriteLine("Jaja, här kommer fråga 2:");
 
 else if (choice == "c")
 {
-
-    
+Console.WriteLine("Äntligen en lite kapabel människa!");
+Console.WriteLine("Hur som helst måste jag ställa fråga 2. Här kommer den:");    
 }
 
 

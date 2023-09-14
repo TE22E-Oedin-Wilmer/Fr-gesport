@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wilmer.odin\\Documents\\ProgrammeringKurs\\Frågesport\\Frågesport\\Frågesport.csproj": {}
+    "c:\\Users\\wilmer.odin\\Documents\\ProgrammeringKurs\\Frågesport\\Frågesport\\Frågesport.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wilmer.odin\\Documents\\ProgrammeringKurs\\Frågesport\\Frågesport\\Frågesport.csproj": {
+    "c:\\Users\\wilmer.odin\\Documents\\ProgrammeringKurs\\Frågesport\\Frågesport\\Frågesport.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wilmer.odin\\Documents\\ProgrammeringKurs\\Frågesport\\Frågesport\\Frågesport.csproj",
+        "projectUniqueName": "c:\\Users\\wilmer.odin\\Documents\\ProgrammeringKurs\\Frågesport\\Frågesport\\Frågesport.csproj",
         "projectName": "Frågesport",
-        "projectPath": "C:\\Users\\wilmer.odin\\Documents\\ProgrammeringKurs\\Frågesport\\Frågesport\\Frågesport.csproj",
+        "projectPath": "c:\\Users\\wilmer.odin\\Documents\\ProgrammeringKurs\\Frågesport\\Frågesport\\Frågesport.csproj",
         "packagesPath": "C:\\Users\\wilmer.odin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wilmer.odin\\Documents\\ProgrammeringKurs\\Frågesport\\Frågesport\\obj\\",
+        "outputPath": "c:\\Users\\wilmer.odin\\Documents\\ProgrammeringKurs\\Frågesport\\Frågesport\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
